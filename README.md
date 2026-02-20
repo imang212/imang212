@@ -1,4 +1,4 @@
-## Hi there!
+# Hi there!
 I am a IT Specialist passionate in Python programming with focus on building and managing secure, efficient infrastructures. I enjoy combining my networking knowledge with Python automation to solve real-world technical challenges.
 
 ### Technical Stack & Skills
