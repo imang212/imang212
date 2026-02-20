@@ -7,6 +7,6 @@ I am a IT Specialist passionate in Python programming with focus on building and
 - Systems: Linux (Advanced user) and Windows Administration. 
 
 ### My Focus
-- Expanding my expertise in network infrastructure, cloud technologies, operating systems, data processing and cybersecurity.
-- Open to international internship opportunities (Erasmus+) and professional collaborations.
+- Expanding my expertise in network infrastructure, operating systems, data processing and cybersecurity.
+- Open to international internship opportunities and professional collaborations.
 - Developing Python-based tools for network management and automation.
