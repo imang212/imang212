@@ -1,5 +1,5 @@
 # Hi there!
-I am a IT Specialist passionate in Python programming with focus on building and managing secure, efficient infrastructures. I enjoy combining my networking knowledge with Python automation to solve real-world technical challenges.
+I am a IT Specialist passionate in Python programming with focus on building and managing efficient infrastructures. I enjoy combining my networking knowledge with Python automation to solve real-world technical challenges.
 
 ### Technical Stack & Skills
 - Networking: CCNA(1-3), IT Essentials, Linux.
