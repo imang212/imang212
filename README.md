@@ -11,7 +11,6 @@ I am an Applied Informatics student from the Czech Republic. I enjoy combining m
 - **Networking & Systems:** CCNA (1-3), Linux (Advanced User), Windows Administration
 
 ### My Focus
-- Expanding my expertise in data processing, edge computing, modern infrastructure, operating systems and virtualisation and cybersecurity.
-- Open to international internship opportunities and professional collaborations.
+- Expanding my expertise in data processing, edge computing, modern IT infrastructure and cybersecurity.
 - Actively seeking an Erasmus+ Autumn Internship (Sept/Oct 2026) abroad, focusing on Backend, IoT, or Data Engineering roles.
 - Developing Python-based tools for network management and automation.
