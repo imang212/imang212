@@ -27,7 +27,7 @@ Beyond engineering, I am fascinated by how we interpret high-velocity data under
 
 ---
 
-**[University](https://github.com/imang212/University_Work)** - Comprehensive archive of my coursework and seminar papers at University.
+**[University](https://github.com/imang212/University_Work)** - Archive with brief description of my coursework and seminar papers done at University.
 
 ---
 
