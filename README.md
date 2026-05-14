@@ -11,10 +11,6 @@ I am an Applied Informatics student at UJEP with a strong foundation in computer
 
 ---
 
-**[University](https://github.com/imang212/University_Work)** - Comprehensive archive of my coursework and seminar papers at University.
-
----
-
 ### Mathematical & Analytical Interests
 Beyond engineering, I am fascinated by how we interpret high-velocity data under uncertainty. I actively study:
 *   **Bayesian Statistics:** Updating hypothesis probabilities with new evidence.
@@ -33,6 +29,10 @@ Beyond engineering, I am fascinated by how we interpret high-velocity data under
 
 ### Looking for
 I am actively seeking **international internship opportunities**.
+
+---
+
+**[University](https://github.com/imang212/University_Work)** - Comprehensive archive of my coursework and seminar papers at University.
 
 ---
 
