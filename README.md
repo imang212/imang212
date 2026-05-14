@@ -27,12 +27,12 @@ Beyond engineering, I am fascinated by how we interpret high-velocity data under
 
 ---
 
-### Looking for
-I am actively seeking **international internship opportunities**.
+**[University](https://github.com/imang212/University_Work)** - Comprehensive archive of my coursework and seminar papers at University.
 
 ---
 
-**[University](https://github.com/imang212/University_Work)** - Comprehensive archive of my coursework and seminar papers at University.
+### Looking for
+I am actively seeking **international internship opportunities**.
 
 ---
 
