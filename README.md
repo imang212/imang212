@@ -32,7 +32,7 @@ Beyond engineering, I am fascinated by how we interpret high-velocity data under
 ---
 
 ### Looking for
-I am actively seeking **international internship opportunities**.
+I am actively looking for **international internship opportunities** (Summer / Autumn Trainee) in Northern Europe (Sweden, Denmark, Finland) within Data Solutions, Data Analysis, Edge AI, Software Engineering, Backend, or Quantitative Analysis.
 
 ---
 
