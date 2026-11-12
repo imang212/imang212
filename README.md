@@ -33,6 +33,7 @@ Beyond engineering, I am fascinated by how we interpret high-velocity data under
 
 ### Looking for
 I am graduating in January 2027 and am open to **Backend, Data Engineering, Platform, or Edge AI** roles and engineering placements (starting early 2027), where I can build scalable data pipelines and hardware-accelerated systems.
+
 ---
 
 ### Contact
