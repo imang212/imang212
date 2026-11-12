@@ -20,10 +20,10 @@ Beyond engineering, I am fascinated by how we interpret high-velocity data under
 ---
 
 ### Technical Stack & Skills
-- **Languages:** Python (FastAPI, Automation, Scripting), C#, PostgreSQL, Git
-- **Edge & IoT:** Hailo-8, YOLO, Raspberry Pi, MQTT
-- **Infrastructure:** CCNA (Enterprise Networking & Security), Linux (Advanced User), PostgreSQL
-- **Tools:** Git, Docker, Windows Administration
+* **Languages:** Python, SQL, C#, Bash
+* **Backend & Databases:** FastAPI, PostgreSQL, REST APIs, MQTT
+* **Edge AI & Computer Vision:** Hailo-8 NPU, YOLO, GStreamer, Raspberry Pi
+* **Infrastructure & Tools:** Linux (Advanced), Docker, Git, CI/CD, Enterprise Networking & Security (CCNA)
 
 ---
 
@@ -32,8 +32,7 @@ Beyond engineering, I am fascinated by how we interpret high-velocity data under
 ---
 
 ### Looking for
-I am actively looking for **international internship opportunities** (Summer / Autumn Trainee) in Northern Europe (Sweden, Denmark, Finland) within Data Solutions, Data Analysis, Edge AI, Software Engineering, Backend, or Quantitative Analysis.
-
+I am graduating in January 2027 and am open to **Backend, Data Engineering, Platform, or Edge AI** roles and engineering placements (starting early 2027), where I can build scalable data pipelines and hardware-accelerated systems.
 ---
 
 ### Contact
